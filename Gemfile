@@ -1,7 +1,18 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem "jekyll", "~> 4.3" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+source "https://rubygems.org"
 
-gem "just-the-docs", "0.4.0.rc3" # currently the latest pre-release
-# gem "just-the-docs"            # the latest release - currently 0.3.3
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+gem "jekyll"
+
+# Plugins
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+end
+
+gem "webrick", "~> 1.7"
+
+gem "just-the-docs", "0.4.0.rc3"

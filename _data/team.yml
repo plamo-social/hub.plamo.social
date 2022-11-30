@@ -1,0 +1,11 @@
+- name: sprngr
+  role: Admin
+  avatar: /assets/images/avatars/sprngr.png
+  link: https://plamo.social/@sprngr
+  description: Founder of plamo.social. Software engineer, maker, lover of mecha & monsters.
+
+- name: Jaskel
+  role: Moderator
+  avatar: /assets/images/avatars/jaskel.jpg
+  link: https://plamo.social/@jaskel
+  description: Gamer, cat dad, dice-roller, mecha enthusiast.
