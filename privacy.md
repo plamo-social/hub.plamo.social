@@ -2,8 +2,9 @@
 title: Privacy Policy
 description: Plamo.social privacy policy.
 layout: default
-last_modified_date: 2022-11-28
+last_modified_date: 2022-11-30
 parent: Legal
+nav_order: 1
 ---
 
 # Privacy Policy

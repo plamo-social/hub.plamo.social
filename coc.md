@@ -4,7 +4,7 @@ description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
 last_modified_date: 2022-11-28
-nav_order: 2
+nav_order: 4
 ---
 # Code of Conduct
 {: .no_toc }
@@ -96,7 +96,6 @@ Public posts should follow the above rules and should also abide by the followin
 * **Do not post about inflammatory, controversial subjects without a Content Warning.** Ideally, you would not post about inflammatory subjects at all on the public timeline. However, it may be acceptable to do so in some cases, but it is never acceptable to post inflammatory posts without hiding the content behind an appropriate Content Warning.
 * Do not engage in name calling, [ad hominem](https://www.urbandictionary.com/define.php?term=Ad%20hominem) attacks, or any other uncivil behaviour; criticize ideas, never people.
 * **Do not tone police.** Other posts may violate the standards of civility we set on plamo.social, but you should not criticize users for their tone. If the user is a member of the plamo.social community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
-* **Try to post English** While this is primarily an English speaking instance and other languages are welcome, posting in other languages can make it difficult for moderation.
 * **Do not debate moderation actions in public posts.** If you disagree with how a moderator enforced this CoC you may direct-message the moderation team or email [hello@plamo.social](mailto:hello@plamo.social).
 
 Always remember that your public posts are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.

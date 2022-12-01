@@ -35,11 +35,11 @@ nav_external_links:
     url: https://status.plamo.social
     hide_icon: false
 
+callouts:
+  important:
+    title: Important!
+    color: blue
 
 # RSS feeds
 feed:
   posts_limit: 20
-
-# Netlify redirects
-include:
-  - _redirects
