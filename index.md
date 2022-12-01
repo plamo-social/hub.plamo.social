@@ -9,7 +9,7 @@ Plamo.social is a community focused on plastic modeling, miniatures, kit bashing
 
 Like the name would indicate, the primary user group of this instance are those who are enthusiasts of "[plamo](https://en.wikipedia.org/wiki/Plamo)", or plastic modeling.
 
-This encapsulates any and all hobby modeling done in plastic or resins, including fantasy, sci-fi, & military modeling; construction of pre-molded kits, kit bashing, scratch building, miniature painting, and the collection of pre-assembled, fully finished models (toys, figures, sofubi, etc). The list is exhaustive.
+This encapsulates any and all hobby modeling done in plastic or resins, including fantasy, sci-fi, & military modeling; construction of pre-molded kits, kit bashing, scratch building, miniature painting, and the collection of pre-assembled, fully finished models (toys, figures, sofubi, etc). The list is far from exhaustive.
 
 Also included (but not limited to) are any of the adjacent topics such as gaming, anime, film, literature, history, art, 3D design & printing, etc.
 
