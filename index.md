@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # About plamo.social
 
-Plamo.social is a community focused on plastic modeling, miniatures, kit bashing, sculptures, dioramas, and all topics adjacent. This server exists as a Mastodon instance as part of the [Fediverse](https://en.wikipedia.org/wiki/Fediverse) all across the internet. This means you will not only be able to interact with those on this server, but other Mastodon servers, and other platforms using the ActivityPub protocol.
+Plamo Social is a community focused on plastic modeling, miniatures, kit bashing, sculptures, dioramas, and all topics adjacent. This server exists as a Mastodon instance as part of the [Fediverse](https://en.wikipedia.org/wiki/Fediverse) all across the internet. This means you will not only be able to interact with those on this server, but other Mastodon servers, and other platforms using the ActivityPub protocol.
 
 Like the name would indicate, the primary user group of this instance are those who are enthusiasts of "[plamo](https://en.wikipedia.org/wiki/Plamo)", or plastic modeling.
 

@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 # Privacy Policy
-This privacy policy describes how plamo.social ("plamo.social", "we", "us") collects, protects and uses the personally identifiable information you may provide through the plamo.social website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that plamo.social does not own or control, or to individuals that plamo.social does not employ or manage.
+This privacy policy describes how Plamo Social ("plamo.social", "we", "us") collects, protects and uses the personally identifiable information you may provide through the plamo.social website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that plamo.social does not own or control, or to individuals that plamo.social does not employ or manage.
 
 ## What information do we collect?
 

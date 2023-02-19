@@ -1,7 +1,7 @@
-# Welcome to plamo.social!
+# Welcome to Plamo Social!
 A plamo centric community on the Fediverse. Feel free to join and hang out!
 
-More information below & available on the [plamo.social Hub](https://hub.plamo.social)
+More information below & available on the [Plamo Social Hub](https://hub.plamo.social)
 
 ## Focus
 
@@ -19,7 +19,7 @@ This is primarily an **English** speaking instance, but all are welcome.
 
 ## Code of Conduct
 
-The [Code of Conduct](https://hub.plamo.social/coc) at plamo.social can be simply summarised as:
+The [Code of Conduct](https://hub.plamo.social/coc) at Plamo Social can be simply summarised as:
 
 1. Don't harass anyone.
 2. If someone is harassing you, report it to a moderator.
@@ -29,6 +29,11 @@ The [Code of Conduct](https://hub.plamo.social/coc) at plamo.social can be simpl
 We block some other instances. The full list is available to our users upon request and we welcome feedback and suggestions. There are plenty of "Free Speech Zones" on the internet, but this is not one of them, and this instance will not openly federate with instances self-describing in that way.
 
 Otherwise, we recommend checking out [instances.social](https://instances.social/) or [joinmastodon](https://joinmastodon.org/) to find a better fit.
+
+## Help Keep Plamo Social running!
+
+You can help Plamo Social keep the lights on by becoming a supporter!
+<a href="https://www.patreon.com/bePatron?u=87958813" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## What is Mastodon?
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/IPSbNdBmWKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,4 +50,4 @@ Coming over to the Fediverse from Twitter? Check out these useful tools to help 
 
 ## Additional Information
 
-For information about [DMCA requests](https://hub.plamo.social/dmca), see the [plamo.social Hub](https://hub.plamo.social).
+For information about [DMCA requests](https://hub.plamo.social/dmca), see the [Plamo Social Hub](https://hub.plamo.social).
