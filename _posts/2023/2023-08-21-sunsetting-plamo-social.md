@@ -22,7 +22,7 @@ User engagement and system stability aside, the core issue has been this entire 
 
 ## Where we go from here
 
-Over the following months, a timline will unfold. I will immediately disable the Patreon, thank you for those who generously donated. I will be disabling any relays used by plamo.social and I advise those of you to not longer post and instead seek a new home to migrate to if you so desire.
+Over the following months, a timeline will unfold. I will immediately disable the Patreon, thank you for those who generously donated. I will be disabling any relays used by plamo.social and I advise those of you to not longer post and instead seek a new home to migrate to if you so desire.
 
 Following the guidelines of the [https://joinmastodon.org/covenant](Mastodon Server Covenant), plamo.social will remain available for 3 months (ending on December 1, 2023) - at this time you will have a chance to download any archives and migrate yourself to a new home in the fediverse, allowing all of your existing connections to properly get rerouted.
 
