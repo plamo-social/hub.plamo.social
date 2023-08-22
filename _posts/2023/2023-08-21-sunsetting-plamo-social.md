@@ -24,20 +24,20 @@ User engagement and system stability aside, the core issue has been this entire 
 
 Over the following months, a timeline will unfold. I will immediately disable the Patreon, thank you for those who generously donated. I will be disabling any relays used by plamo.social and I advise those of you to no longer post and instead seek a new home to migrate to if you so desire.
 
-Following the guidelines of the [https://joinmastodon.org/covenant](Mastodon Server Covenant), plamo.social will remain available for 3 months (ending on December 1, 2023) - at this time you will have a chance to download any archives and migrate yourself to a new home in the fediverse, allowing all of your existing connections to properly get rerouted.
+Following the guidelines of the [Mastodon Server Covenant](https://joinmastodon.org/covenant), plamo.social will remain available for 3 months (ending on December 1, 2023) - at this time you will have a chance to download any archives and migrate yourself to a new home in the fediverse, allowing all of your existing connections to properly get rerouted.
 
-For information about migrating yourself, see https://docs.joinmastodon.org/user/moving/
+For information about migrating yourself, see [https://docs.joinmastodon.org/user/moving/](https://docs.joinmastodon.org/user/moving/)
 
 If you are seeking a new home within the hobby related niche, I would recommend some of the following to check out as part of your move:
-- warhammer.social
-- dice.camp
-- miniature.photography (pixelfed)
-- sakurajima.moe
+- [warhammer.social](https://warhammer.social)
+- [dice.camp](https://dice.camp)
+- [miniature.photography (pixelfed)](https://miniature.photography)
+- [sakurajima.moe](sakurajima.moe)
 
 After the shutdown has occurred, the domain will display this post or some brief version of it. Maybe in the future plamo.social come back as something better served for the needs of the community.
 
-If you wish to keep in contact, there is a Discord server that was spun up for patrons https://discord.gg/njqttwBM
+If you wish to keep in contact, there is a Discord server that was spun up for patrons [https://discord.gg/njqttwBM](https://discord.gg/njqttwBM)
 
 Thank you all for the past couple years - I wish you all the best of luck, see you online and happy building.
 
-- sprngr
+@sprngr
